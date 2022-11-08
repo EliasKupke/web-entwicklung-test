@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4523cadb-3742-4d78-948f-721cf6fe5284" name="WE-Test Lokal" url="http://localhost/we-test">
+        <fileTransfer mountedRoot="C:\xampp\htdocs\WE-Test" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
